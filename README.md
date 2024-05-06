@@ -15,4 +15,4 @@ cd Image-Augmentation
 conda install requirements.txt || pip install requirements.txt
 ```
 <br>
-<h1 align="center">HAPPY CODING</h1>
+<h6 align="center">HAPPY CODING</h6>
