@@ -12,5 +12,5 @@ or just
 ```bash
 conda install requirements.txt || pip install requirements.txt
 ```
-
-<center><p>HAPPY CODING</p></center>
+<br>
+<p align="center">HAPPY CODING</p>
