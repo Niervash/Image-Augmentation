@@ -13,4 +13,4 @@ or just
 conda install requirements.txt || pip install requirements.txt
 ```
 
-## HAPPY CODING
+<center><p>HAPPY CODING</p></center>
